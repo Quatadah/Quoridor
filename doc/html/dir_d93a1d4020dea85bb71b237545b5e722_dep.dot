@@ -1,0 +1,14 @@
+digraph "/home/quatadah/STUDIES/projects/projetss6-quor-12812/src/tests" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="Helvetica", fontsize="10", URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html"]
+  subgraph clusterdir_d93a1d4020dea85bb71b237545b5e722 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_d93a1d4020dea85bb71b237545b5e722.html"];
+    dir_d93a1d4020dea85bb71b237545b5e722 [shape=plaintext label="tests"];
+    dir_3630e49b36dab402dfbffe786b44bb72 [shape=box label="clients" color="black" fillcolor="white" style="filled" URL="dir_3630e49b36dab402dfbffe786b44bb72.html"];
+  }
+  }
+  dir_d93a1d4020dea85bb71b237545b5e722->dir_3630e49b36dab402dfbffe786b44bb72 [headlabel="1", labeldistance=1.5 headhref="dir_000008_000009.html"];
+}

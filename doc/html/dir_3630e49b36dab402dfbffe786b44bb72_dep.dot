@@ -1,0 +1,9 @@
+digraph "/home/quatadah/STUDIES/projects/projetss6-quor-12812/src/tests/clients" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_d93a1d4020dea85bb71b237545b5e722 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="tests" fontname="Helvetica", fontsize="10", URL="dir_d93a1d4020dea85bb71b237545b5e722.html"]
+  dir_3630e49b36dab402dfbffe786b44bb72 [shape=box, label="clients", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_3630e49b36dab402dfbffe786b44bb72.html"];
+  }
+}

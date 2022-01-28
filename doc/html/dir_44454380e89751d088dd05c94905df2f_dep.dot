@@ -1,0 +1,17 @@
+digraph "/home/quatadah/STUDIES/projects/projetss6-quor-12812/src/clients" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="Helvetica", fontsize="10", URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html"]
+  subgraph clusterdir_44454380e89751d088dd05c94905df2f {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_44454380e89751d088dd05c94905df2f.html"];
+    dir_44454380e89751d088dd05c94905df2f [shape=plaintext label="clients"];
+    dir_b9cba1465b1aef4ba7747cb266b5d1fc [shape=box label="client1" color="black" fillcolor="white" style="filled" URL="dir_b9cba1465b1aef4ba7747cb266b5d1fc.html"];
+    dir_4ac89958c9e4c6cf38ca4d975e44b0eb [shape=box label="distance" color="black" fillcolor="white" style="filled" URL="dir_4ac89958c9e4c6cf38ca4d975e44b0eb.html"];
+    dir_b7cab8afc5dd35f85497fc9ebd3db011 [shape=box label="distance_agressive" color="black" fillcolor="white" style="filled" URL="dir_b7cab8afc5dd35f85497fc9ebd3db011.html"];
+    dir_b8ad0fc4c7853e3ba17f02b8969e6d12 [shape=box label="minmax" color="black" fillcolor="white" style="filled" URL="dir_b8ad0fc4c7853e3ba17f02b8969e6d12.html"];
+    dir_53f54b2681a82d7b7e425516ccf7b010 [shape=box label="random" color="black" fillcolor="white" style="filled" URL="dir_53f54b2681a82d7b7e425516ccf7b010.html"];
+  }
+  }
+}

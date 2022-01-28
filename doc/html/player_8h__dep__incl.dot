@@ -1,0 +1,27 @@
+digraph "/home/quatadah/STUDIES/projects/projetss6-quor-12812/src/player.h"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="/home/quatadah/STUDIES\l/projects/projetss6-quor\l-12812/src/player.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="/home/quatadah/STUDIES\l/projects/projetss6-quor\l-12812/src/clients/client1\l/client1.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$client1_8c.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="/home/quatadah/STUDIES\l/projects/projetss6-quor\l-12812/src/clients/client\l_common.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$client__common_8h.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="/home/quatadah/STUDIES\l/projects/projetss6-quor\l-12812/src/clients/client\l_common.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$client__common_8c.html",tooltip=" "];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="/home/quatadah/STUDIES\l/projects/projetss6-quor\l-12812/src/clients/distance\l/distance.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$distance_8c.html",tooltip=" "];
+  Node3 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="/home/quatadah/STUDIES\l/projects/projetss6-quor\l-12812/src/clients/distance\l_agressive/distance_agressive.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$distance__agressive_8c.html",tooltip=" "];
+  Node3 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="/home/quatadah/STUDIES\l/projects/projetss6-quor\l-12812/src/clients/minmax\l/minmax.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$minmax_8c.html",tooltip=" "];
+  Node3 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="/home/quatadah/STUDIES\l/projects/projetss6-quor\l-12812/src/clients/random\l/random.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$random_8c.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

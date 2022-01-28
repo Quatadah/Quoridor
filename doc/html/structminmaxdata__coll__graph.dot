@@ -1,0 +1,11 @@
+digraph "minmaxdata"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="minmaxdata",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" M" ,fontname="Helvetica"];
+  Node2 [label="move_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structmove__t.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" e" ,fontname="Helvetica"];
+  Node3 [label="edge_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structedge__t.html",tooltip=" "];
+}
